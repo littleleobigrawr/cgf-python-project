@@ -1,0 +1,8 @@
+# Ignore config.py
+config.py
+
+# Other patterns to ignore
+*.log
+*.tmp
+__pycache__/
+*.pyc
