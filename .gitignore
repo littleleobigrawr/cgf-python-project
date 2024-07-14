@@ -5,7 +5,7 @@ config.py
 bin/
 
 # Ignore lib folder
-lib/
+lib/python3.12/site-packages
 
 # Other patterns to ignore
 *.log
