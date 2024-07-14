@@ -1,12 +1,6 @@
 # Ignore config.py
 config.py
 
-# Ignore bin folder
-ven/bin/
-
-# Ignore lib folder
-ven/lib/python3.12/site-packages
-
 # Other patterns to ignore
 *.log
 *.tmp
