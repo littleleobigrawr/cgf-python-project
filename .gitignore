@@ -2,10 +2,10 @@
 config.py
 
 # Ignore bin folder
-bin/
+ven/bin/
 
 # Ignore lib folder
-lib/python3.12/site-packages
+ven/lib/python3.12/site-packages
 
 # Other patterns to ignore
 *.log
