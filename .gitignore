@@ -1,6 +1,12 @@
 # Ignore config.py
 config.py
 
+# Ignore bin folder
+bin/
+
+# Ignore lib folder
+lib/
+
 # Other patterns to ignore
 *.log
 *.tmp
